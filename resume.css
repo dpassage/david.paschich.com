@@ -5,7 +5,7 @@
 
     v0.9: 5/28/09
 
-    design and code by: thingsthatarebrown.com 
+    design and code by: thingsthatarebrown.com
                         (matt brown)
 ---------------------------------------------------------------------------------
 */
@@ -55,7 +55,7 @@ a#pdf:hover { background: #222; }
 .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 3em 0; }
-
+.job p.intro { margin-bottom: 0; font-style: italic; }
 .last { border: none; }
 .skills-list {  }
 .skills-list ul { margin: 0; }
